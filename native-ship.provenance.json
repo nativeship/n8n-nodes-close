@@ -1,0 +1,11 @@
+{
+  "dependencyLockSha256": "c117fa2ca55b50f164d9976156638d380ba63dda97e096e7e2a1738e1e7cea93",
+  "generator": "native-ship/hybrid-go-ts-morph",
+  "generatorVersion": "1.4.0",
+  "irSha256": "2431a93bb4826045f8992153c8d45c1fe8821ed5e2c90c38a6527a36f439f70f",
+  "packageName": "@nativeship/n8n-nodes-close",
+  "runtime": "bun@1.3.14",
+  "schemaVersion": 2,
+  "templateVersion": "1.1.0",
+  "toolchainProfileId": "native-ship-go-tsmorph-1.4.0-template-1.1.0"
+}
